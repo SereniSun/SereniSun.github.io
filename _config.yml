@@ -55,7 +55,7 @@ footer-links:
   youtube:
 
 # Text under the icons in footer
-footer-text: Copyright (c) 2019 lemon
+footer-text: Copyright (c) 2022 SereniSun
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
@@ -66,7 +66,7 @@ gitalk:
   clientID: 7649f67c3f37c419951e
   clientSecret: 1c992c96b1397548f0ee4a9bfaf6bdff9e21618c
   repo: SereniSun.github.io
-  owner: SereniSu
+  owner: SereniSun
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 #google_analytics: 
