@@ -65,7 +65,7 @@ disqus: # fromendworld
 gitalk:
   clientID: 7649f67c3f37c419951e
   clientSecret: 1c992c96b1397548f0ee4a9bfaf6bdff9e21618c
-  repo: SereniSun.github.io
+  repo: weibo.jiangshan.love
   owner: SereniSun
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
